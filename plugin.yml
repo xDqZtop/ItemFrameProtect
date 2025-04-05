@@ -1,0 +1,8 @@
+name: ItemFrameProtect
+version: 1.0.0
+main: xDqZtop\itemframeprotect\Main
+api: 5.0.0
+description: "Protects item frames from player interaction in Survival mode while allowing it in Creative"
+author: xDqZtop
+website: "https://github.com/xDqZtop/ItemFrameProtect"
+prefix: IFP
